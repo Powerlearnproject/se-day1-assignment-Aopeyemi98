@@ -47,8 +47,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 >> - there is Low flexibility,
 changes are hard to incorporate once a phase is complete.
-
->> - Customer feedback comes late, after the product is developed.
+- Customer feedback comes late, after the product is developed.
 
 >> - Testing is done at the end of the development process.
 
