@@ -48,22 +48,19 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 >> - there is Low flexibility,
 changes are hard to incorporate once a phase is complete.
 >> - Customer feedback comes late, after the product is developed.
-
 >> - Testing is done at the end of the development process.
 
 
 > **Agile methodology** - Iterative and incremental, with multiple cycles (sprints).
 
 >> - High flexibility, adapts to changing requirements.
-
 >> - Regular customer feedback is incorporated into every sprint.
-
 >> - Testing is continuous and done after each iteration.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-Software Developer - developing applications,programs and systems using programming languages and frameworks.
+***Software Developer*** - developing applications,programs and systems using programming languages and frameworks.
 
  - maintaining and updating software to keep it functional.
 
@@ -71,7 +68,7 @@ Software Developer - developing applications,programs and systems using programm
 
  - reporting to the project manager about the progress of the software development.
 
-Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
+***Quality Assurance Engineer*** - collaborate with stakeholders to understand and clarify software requirement.
 
  - create development standards and procedures for the programmers to follow
 
@@ -81,7 +78,7 @@ Quality Assurance Engineer - collaborate with stakeholders to understand and cla
 
 - develop and execute automation scripts using open source tools.
 
-Project Manager - assembles and lead the software development team.
+***Project Manager*** - assembles and lead the software development team.
 
  - discuss the project and it's requirement with the client and software developers.
 
