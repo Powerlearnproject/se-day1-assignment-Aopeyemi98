@@ -188,3 +188,5 @@ Clarity: The improved prompt specifies what is being asked (a full-body portrait
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
 
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+
+![1740560708622468167597931696812](https://github.com/user-attachments/assets/5a80d459-e2e6-4691-b4fe-b988a98d8e68)
